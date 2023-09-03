@@ -1,4 +1,4 @@
-# demo
+ # demo
 This is my first git repository.
 <br>
-Created by Ruby
+Created by Ruby Sahu
